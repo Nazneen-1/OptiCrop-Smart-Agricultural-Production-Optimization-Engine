@@ -1,5 +1,7 @@
 # OptiCrop
 
+Demo: https://opticrop-smart-agricultural-production-q73f.onrender.com/
+
 OptiCrop is a crop recommendation web app that helps users choose the most suitable crop based on soil and weather conditions. Enter the seven core agricultural parameters, and the app returns an instant ML-based recommendation.
 
 <details open>
